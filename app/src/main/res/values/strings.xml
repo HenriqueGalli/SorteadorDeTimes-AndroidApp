@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">sorteador-nomes</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity -->
+    <string name="main_activity_sorter_title">Sorteador de Times</string>
+    <string name="main_activity_sorter_description_add_list">Digite o nome do participante e adicione à lista</string>
+    <string name="main_activity_sorter_description_sort">Depois de ter adicionado todos clique em sortear </string>
+    <string name="main_activity_sorter_sort_teams">Sortear Times </string>
+
+    <!-- SortedTeamsActivity -->
+    <string name="sorted_teams_activity_title">Times Sorteados</string>
+    <string name="sorted_teams_activity_team_a">Time A</string>
+    <string name="sorted_teams_activity_team_b">Time B</string>
+    <string name="sorted_teams_activity_new_sort">Sortear novo time</string>
+    <string name="sorted_teams_activity_sorted_dot">⚪</string>
+</resources>
